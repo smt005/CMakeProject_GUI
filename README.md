@@ -1,0 +1,2 @@
+# CMakeProject_GUI
+Интерфейс
